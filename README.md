@@ -1,3 +1,8 @@
+
+**First Author -**
+
+<img width="1500" height="700" alt="image" src="https://github.com/user-attachments/assets/393f290c-1818-4496-a89d-45e7759f3016" />
+
 # Deep-Learning-for-Contextual-Bug-Detection-and-Automated-Fixes-in-Software-Systems
 
 **🔍 Research Focus-**
