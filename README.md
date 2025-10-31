@@ -1,0 +1,2 @@
+# Deep-Learning-for-Contextual-Bug-Detection-and-Automated-Fixes-in-Software-Systems
+In this I contributed in development of intelligent frameworks for detecting software bugs in context-aware environments and automating the search for relevant fixes across distributed codebases. The work addresses a critical gap in modern software engineering: the need for dynamic, scalable, and semantically rich bug detection mechanisms.
