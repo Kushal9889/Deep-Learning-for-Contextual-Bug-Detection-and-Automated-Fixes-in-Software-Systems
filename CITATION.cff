@@ -1,0 +1,63 @@
+cff-version: 1.2.0
+title: >-
+  Deep Learning for Contextual Bug Detection and Automated Fixes
+  in Software Systems
+message: Please cite the conference paper.
+type: conference-paper
+authors:
+  - given-names: Kushal
+    family-names: Gaddamwar
+    affiliation: PDPM IIIT Jabalpur
+  - given-names: Yatharth
+    family-names: Srivastava
+    affiliation: The LNM Institute of Information Technology, Jaipur
+  - given-names: Jyoti
+    family-names: Parashar
+    affiliation: ADGIPS, New Delhi
+  - given-names: Ritwij Aryan
+    family-names: Parmar
+    affiliation: Manipal Institute of Technology
+  - given-names: Aditya Kumar
+    family-names: Pandey
+    affiliation: Manipal Institute of Technology
+  - given-names: Virendra Singh
+    family-names: Kushwah
+    affiliation: VIT Bhopal University
+identifiers:
+  - type: doi
+    value: 10.1109/ICAICCIT64383.2024.10912101
+url: https://ieeexplore.ieee.org/document/10912101
+keywords:
+  - context-aware bug detection
+  - automated bug fixing
+  - CI/CD integration
+  - software development lifecycle
+  - graph neural networks
+  - transformers
+preferred-citation:
+  type: conference-paper
+  title: >-
+    Deep Learning for Contextual Bug Detection and Automated Fixes
+    in Software Systems
+  authors:
+    - given-names: Kushal
+      family-names: Gaddamwar
+    - given-names: Yatharth
+      family-names: Srivastava
+    - given-names: Jyoti
+      family-names: Parashar
+    - given-names: Ritwij Aryan
+      family-names: Parmar
+    - given-names: Aditya Kumar
+      family-names: Pandey
+    - given-names: Virendra Singh
+      family-names: Kushwah
+  collection-title: >-
+    2024 2nd International Conference on Advances in Computation,
+    Communication and Information Technology (ICAICCIT)
+  publisher:
+    name: IEEE
+  year: 2024
+  start: 624
+  end: 629
+  doi: 10.1109/ICAICCIT64383.2024.10912101
