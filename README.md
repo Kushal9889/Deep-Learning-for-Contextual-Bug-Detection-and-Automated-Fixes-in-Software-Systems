@@ -30,6 +30,8 @@ The two representations are concatenated and scored together. When the detector 
 The mechanism that matters is the metadata. Input is not the code alone but `X = [C, M]`, where `M` carries architecture, dependencies, and runtime conditions. That is the difference between a model that can only ask "is this function wrong" and one that can ask "is this function wrong *given what it depends on and how it behaves in production*".
 
 Full method, with the equations as published: [`docs/method.md`](docs/method.md).
+Every number with what it does and does not establish: [`docs/results.md`](docs/results.md).
+Questions readers actually ask: [`docs/notes-for-readers.md`](docs/notes-for-readers.md).
 
 ## Results
 
